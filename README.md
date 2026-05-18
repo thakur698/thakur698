@@ -1,7 +1,7 @@
 <h1 align="center">⚡ ABHI THAKUR ⚡</h1>
 
 <h3 align="center">
-Cyberpunk Flutter & Web Developer
+ Flutter & Web Developer
 </h3>
 
 ---
