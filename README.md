@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🔥 Building futuristic Flutter apps
-- ⚡ Creating cyberpunk UI/UX
+- ⚡ Creating  UI/UX
 - 🎮 Game developer
 - 🌌 React & Firebase developer
 
