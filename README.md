@@ -2,10 +2,10 @@
   <img src="https://github.com/thakur698.png" width="180" />
 </p>
 
-<h1 align="center">⚡ ABHI THAKUR ⚡</h1>
+<h1 align="center"> ABHI THAKUR </h1>
 
 <h3 align="center">
-🚀 Flutter & Web Developer
+ Flutter & Web Developer
 </h3>
 
 <p align="center">
@@ -14,13 +14,14 @@ Building futuristic apps, cyberpunk UI, games & modern web experiences.
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🔥 Building futuristic Flutter apps
-- ⚡ Creating modern UI/UX
-- 🎮 Indie Game Developer
-- 🌌 React & Firebase developer
-- 📱 Mobile App Enthusiast
+-  Building futuristic Flutter apps
+-  Creating modern UI/UX
+-  Indie Game Developer
+-  React & Firebase developer
+-  Mobile App Enthusiast
+-  Data Analyst
 
 ---
 
@@ -32,7 +33,7 @@ Building futuristic apps, cyberpunk UI, games & modern web experiences.
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thakur698&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -44,7 +45,7 @@ Building futuristic apps, cyberpunk UI, games & modern web experiences.
 
 ---
 
-# 🌌 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakur698&theme=tokyo-night"/>
@@ -52,7 +53,7 @@ Building futuristic apps, cyberpunk UI, games & modern web experiences.
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
   <a href="https://github.com/thakur698">
@@ -71,5 +72,5 @@ Building futuristic apps, cyberpunk UI, games & modern web experiences.
 ---
 
 <p align="center">
-⚡ “Code. Create. Innovate.” ⚡
+ “Code. Create. Innovate.” 
 </p>
