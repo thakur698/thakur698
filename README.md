@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-Building futuristic apps, cyberpunk UI, games & modern web experiences.
+Building futuristic appsk, UI & UX,Data Analyst, games & modern web experiences.
 </p>
 
 ---
