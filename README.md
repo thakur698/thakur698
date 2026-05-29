@@ -25,7 +25,7 @@ Building futuristic appsk, UI & UX,Data Analyst, games & modern web experiences.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,js,python,html,css,github,vscode" />
